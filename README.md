@@ -1,4 +1,4 @@
-# Machine learning projects in Python
+# Machine Learning Projects in Python
 
 Machine learning projects in Python
 
