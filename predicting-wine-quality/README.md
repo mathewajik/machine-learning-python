@@ -2,7 +2,7 @@
 
 Predicting wine quality using classification techniques
 
-![Bottle_and_glass_of_red_wine](https://commons.wikimedia.org/wiki/File:Bottle_and_glass_of_red_wine.jpg)
+![Bottle_and_glass_of_red_wine](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bottle_and_glass_of_red_wine.jpg/320px-Bottle_and_glass_of_red_wine.jpg)
 
 # Introduction
 
