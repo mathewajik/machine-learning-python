@@ -4,4 +4,4 @@ Machine learning projects in Python
 
 # Projects
 
-- [Predicting Wine Quality](./predicting-wine-quality)
+- [Predicting Wine Quality](./predicting_wine_quality)
