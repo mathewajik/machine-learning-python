@@ -10,4 +10,5 @@ Machine learning projects in Python
 
 # Projects
 
+- [Iris Flower Classification](./iris_flower_classification)
 - [Predicting Wine Quality](./predicting_wine_quality)
