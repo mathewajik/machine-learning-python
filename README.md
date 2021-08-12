@@ -12,3 +12,10 @@ Machine learning projects in Python
 
 - [Iris Flower Classification](./iris_flower_classification)
 - [Predicting Wine Quality](./predicting_wine_quality)
+
+# References
+ 
+- [Getting Started with Machine Learning](https://machinelearningmastery.com/start-here/)
+- [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/)
+- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html)
