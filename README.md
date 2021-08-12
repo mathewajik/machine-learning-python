@@ -15,7 +15,8 @@ Machine learning projects in Python
 
 # References
  
-- [Getting Started with Machine Learning](https://machinelearningmastery.com/start-here/)
-- [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/)
-- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-- [Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html)
+- [Getting Started with Machine Learning (Website)](https://machinelearningmastery.com/start-here/)
+- [An Introduction to Machine Learning (Textbook)](https://link.springer.com/book/10.1007/978-3-319-63913-0)
+- [Machine Learning A-Z™: Hands-On Python & R In Data Science (Udemy Course)](https://www.udemy.com/course/machinelearning/)
+- [Python Data Science Handbook (Textbook)](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [Machine Learning Systems Design (Stanford Course CS329S)](https://stanford-cs329s.github.io/syllabus.html)
