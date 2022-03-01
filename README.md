@@ -10,6 +10,14 @@ Machine learning projects in Python
 
 # Projects
 
+## Stand-alone Projects
+- To Do
+
+## Competitions
+- To Do
+
+## Assignments & Coursework
+
 - [Iris Flower Classification](./iris_flower_classification)
 - [Predicting Wine Quality](./predicting_wine_quality)
 
