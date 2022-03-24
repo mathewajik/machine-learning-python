@@ -4,24 +4,24 @@ Machine learning projects in Python
 
 ![image info](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Artificial_Neural_Network_with_Chip.png/320px-Artificial_Neural_Network_with_Chip.png)
 
-# Requirements
+## Requirements
 
 - [Anaconda (Python distribution)](https://www.anaconda.com/)
 
-# Projects
+## Projects
 
-## Stand-alone Projects
+### Stand-alone Projects
 - To Do
 
-## Competitions
+### Competitions
 - To Do
 
-## Assignments & Coursework
+### Assignments & Coursework
 
 - [Iris Flower Classification](./iris_flower_classification)
 - [Predicting Wine Quality](./predicting_wine_quality)
 
-# References
+## References
  
 - [Getting Started with Machine Learning (Website)](https://machinelearningmastery.com/start-here/)
 - [An Introduction to Machine Learning (Textbook)](https://link.springer.com/book/10.1007/978-3-319-63913-0)
